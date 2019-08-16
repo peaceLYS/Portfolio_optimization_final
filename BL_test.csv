@@ -1,0 +1,10 @@
+tickers,weights,Asset,Sign,Compare_Asset,Value
+XOM,11.11,MSFT,>,GE,0.02
+AAPL,11.11,AAPL,<,JNJ,0.02
+MSFT,11.11,XOM,>,AAPL,0.02
+JNJ,11.11,,,,
+GE,11.11,,,,
+GOOG,11.11,,,,
+CVX,11.11,,,,
+PG,11.11,,,,
+WFC,11.11,,,,
